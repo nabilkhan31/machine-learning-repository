@@ -10,6 +10,6 @@
 ### Polynomial Regression + Predicting
 <img width="694" alt="image" src="https://github.com/nabilkhan31/ML-Repository/assets/130944074/518ec1c3-950c-40c9-a1b3-90fd01998c2b">
 
-### 
+### Random Forest Regression
 <img width="584" alt="image" src="https://github.com/nabilkhan31/ML-Repository/assets/130944074/56a613e5-6357-4f69-af55-47bbda8e370e">
 
