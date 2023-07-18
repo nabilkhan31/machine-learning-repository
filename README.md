@@ -6,3 +6,7 @@
 
 ### Logistic Regression
 <img width="641" alt="image" src="https://github.com/nabilkhan31/ML-Repository/assets/130944074/d2beaa7d-14e0-40a2-a79f-4e6a9f60f1cb">
+
+### Polynomial Regression + Predicting
+<img width="694" alt="image" src="https://github.com/nabilkhan31/ML-Repository/assets/130944074/518ec1c3-950c-40c9-a1b3-90fd01998c2b">
+
