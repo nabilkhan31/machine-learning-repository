@@ -13,3 +13,7 @@
 ### Random Forest Regression
 <img width="584" alt="image" src="https://github.com/nabilkhan31/ML-Repository/assets/130944074/56a613e5-6357-4f69-af55-47bbda8e370e">
 
+### Decision Tree Regression
+<img width="590" alt="image" src="https://github.com/nabilkhan31/ML-Repository/assets/130944074/6a05d39a-0b50-48ea-80c7-339bd37b0f50">
+
+
